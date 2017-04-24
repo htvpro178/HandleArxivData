@@ -1,0 +1,6 @@
+https://academia.stackexchange.com/questions/38969/getting-a-dump-of-arxiv-metadata
+// get math data in 01/2015
+http://export.arxiv.org/oai2?verb=ListIdentifiers&set=math&metadataPrefix=oai_dc&from=2015-01-14&until=2015-01-14
+http://export.arxiv.org/oai2?verb=ListRecords&set=math&from=2015-01-01&until=2015-01-31&metadataPrefix=arXiv
+// API
+https://arxiv.org/help/api/user-manual#query_details
